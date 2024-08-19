@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import json
 
 # Caricamento delle frasi
-fileJson = open("frasiEntità.json","r")
+fileJson = open("SA-Bert/Intero corpus/frasiEntità.json","r")
 frasi = json.load(fileJson)
 
 # Load the tokenizer
