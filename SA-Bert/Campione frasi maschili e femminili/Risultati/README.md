@@ -1,3 +1,5 @@
+# Considerazioni sulle frasi analizzate
+
 Campione iniziale: 500 frasi.
 
 Dopo ripulitura (eliminazione frasi senza entità o prive di sufficiente contesto) e divisione con GPT:
