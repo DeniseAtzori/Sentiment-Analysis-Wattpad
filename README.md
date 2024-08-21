@@ -4,7 +4,7 @@ Questa cartella contiene i risultati di un percorso di tirocinio e tesi triennal
 
 Le storie sono state estratte da Wattpad tra marzo e aprile 2024, con l'ausilio della wattpad-api di felixApps (https://github.com/topics/wattpad-api) e sono state selezionate tra le prime 50 concluse nelle categorie italiane "Romanzi Rosa", "Vampiri", "Teen Fiction", "Fantasia" e "Fanfiction".
 
-Per questioni di copyright, il DataSet è disponibile solo su richiesta diretta e solo ai fini della ricerca.
+Per questioni di copyright, il DataSet non è presente nella cartella.
 
 All'interno del progetto sono presenti:
 
