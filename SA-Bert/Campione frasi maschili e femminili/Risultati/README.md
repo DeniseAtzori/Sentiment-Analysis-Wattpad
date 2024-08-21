@@ -70,3 +70,8 @@ Sentimenti evidenziati da GPT: Curiosità, ignoranza, tormento, connessione emot
 Commento: frase interessante sulla quale approfondire il contesto.
 Negative: 0,522424817085266
 Sentimenti evidenziati da GPT: Aspettativa, indifferenza, aggressività, conflitto
+
+- E ho paura che Caleb spezzi il mio cuore, lo frantumi, portandomi così in basso che sarà quasi impossibile risalire.	
+
+Negative: 0,9782918691635130
+Commento: frase interessante da analizzare, potrebbe mettere in luce un rapporto con dislivello
