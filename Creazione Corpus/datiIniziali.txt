@@ -1,0 +1,8 @@
+DATI ESTRATTI DAL DATASET wattpadDatasetIT
+
+- Numero di storie: 247
+- Numero di token: 10558120 (10M)
+- Numero di lemmi: 260205
+- TTR (Type/Token): 0.024670395865930676
+
+
