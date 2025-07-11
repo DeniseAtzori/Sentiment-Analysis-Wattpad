@@ -1,4 +1,4 @@
-# SA-Wattpad
+# Sentiment Analysis Wattpad
 
 Questa cartella contiene i risultati di un percorso di tirocinio e tesi triennale in Informatica Umanistica, che si è concentrato sull'analisi sentimentale di un DataSet di 247 storie di Wattpad Italia. La tesi è consultabile al seguente link: https://shorturl.at/u29IF
 
